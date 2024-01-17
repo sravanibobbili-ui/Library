@@ -1,0 +1,43 @@
+.image_content
+{
+    border-radius: 50%;
+    width: 50%;
+    height: 100px;
+}
+
+.container_value {
+    display: flex;
+    align-items: center; 
+    padding: 4em;
+    background-color:grey;
+}
+/* section {
+    width: 80%;
+    margin: 0 auto;
+    padding: 2em;
+    display: block;
+} */
+.heading_style {
+    display: block;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    margin-top:50px;
+}
+
+#row {
+    position: relative;
+    top: 50px;
+    margin: 7px;
+}
+.form-control
+{
+  background: transparent;
+  border: none;
+  border-bottom: 1px dotted white;
+  /* top: 50px; */
+  border-radius: 0;
+  padding: 1px;
+  margin: 2px;
+  width: 200px;
+}
